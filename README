@@ -1,0 +1,5 @@
+#1 run the demo
+npm install
+webpack
+node server
+
